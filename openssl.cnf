@@ -19,4 +19,8 @@ keyUsage = nonRepudiation, digitalSignature, keyEncipherment
 subjectAltName = @alt_names
 [alt_names]
 DNS.1 = *.nebula.prod
+DNS.2 = *.st-dr.nebula.prod
+DNS.3 = *.ops-dr.nebula.prod
+DNS.4 = *.st-alpdr.nebula.prod
+DNS.5 = *.sc-dr.nebula.prod
 
